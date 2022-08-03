@@ -1,0 +1,15 @@
+1.- Iniciar proyecto de npm
+    npm init --y
+
+2.- Instalación de paquetes
+    npm install cors dotenv express mongoose multer --save
+
+3.- Crear un .env en la raíz, para agregar las variables de entorno.
+
+4.- Crear modelos de la API
+
+5.- Crear nuestro controlador
+
+6.- Crear rutas
+
+7.- Configuramos Servidor
